@@ -1,11 +1,8 @@
-# Personal_Search_engine
-Search engine for personal use.
+
 
 ###################################
-                              __
-|\  /|       __  __  __  __ ||__
-| \/ | \/   |__||__||__||__|||__
-       /       |           |
-            (__|        (__|
+# Personal_Search_engine
                   Author:~#Koushack
 ###################################            
+
+This is just to test if this also searches the same way Google, Bing or any search engine works.
